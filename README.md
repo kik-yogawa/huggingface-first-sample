@@ -1,1 +1,1 @@
-"# huggingface-first-sample" 
+# huggingface-first-sample
